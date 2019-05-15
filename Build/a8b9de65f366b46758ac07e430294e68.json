@@ -1,0 +1,12 @@
+{
+"companyName": "DefaultCompany",
+"productName": "space-asteroids",
+"dataUrl": "771b09182a4c08d4ea4023b9cbb4bfb7.unityweb",
+"wasmCodeUrl": "854b2ab215c9d940449c39087310b179.unityweb",
+"wasmFrameworkUrl": "2fb4d7683f57ab762453331e7dadfd5f.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728"
+}
